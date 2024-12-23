@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    background-color: peachpuff;
+    width: 50%;
+    height: 50%;
+    
+}
